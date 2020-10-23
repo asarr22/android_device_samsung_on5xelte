@@ -1,4 +1,7 @@
-The Samsung J5 Prime (codenamed _"on5xelte"_) is a mid-range smartphone from Samsung.
+The Samsung Galaxy J5 Prime (codenamed _"on5xelte"_) is a mid-range smartphone from Samsung.
+
+
+![Galaxy J5 Prime ](https://productimages.hepsiburada.net/s/1/550/9503429296178.jpg/format:webp)
 
 It was announced and released in December 2016.
 
@@ -20,4 +23,3 @@ It was announced and released in December 2016.
 
 ## Device picture
 
-![Samsung A3 2017](https://productimages.hepsiburada.net/s/1/550/9503429296178.jpg/format:webp)
