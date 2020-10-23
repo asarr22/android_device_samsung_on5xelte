@@ -1,0 +1,8 @@
+ro.hardware=samsungexynos7570
+ro.arch=exynos7570
+ro.chipname=exynos7570
+ro.product.brand=samsung
+ro.product.name=on5xelte
+ro.product.device=on5xelte
+ro.build.product=on5xelte
+ro.treble.enabled=true
